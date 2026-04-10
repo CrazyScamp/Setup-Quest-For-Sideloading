@@ -2,7 +2,9 @@ Here are the steps to turn on developer mode and debugging on Quest 3:
  
 ## Create a Developer Account
  
-1. Go to the Meta Developer Dashboard and log in with your Meta account.
+1. Go to the Meta Developer Dashboard [here](https://developers.meta.com/horizon/).
+
+Meta Developer Dashboard and log in with your Meta account.
 
 
 2. Click Create Organization and fill in the required information.
