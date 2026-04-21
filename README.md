@@ -2,7 +2,7 @@ Here are the steps to turn on Developer Mode, USB Debugging and Installing USB D
  
 ## Create a Developer Account
  
-1. Go to the Meta Developer Dashboard [here](https://developers.meta.com/horizon/) and log in with your Meta account.
+1. Go to the Meta Developer Dashboard [here](https://developers.meta.com/horizon/) and log in with your Meta account.
 
 
 2. Click Create Organization and fill in the required information.
