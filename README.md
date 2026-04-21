@@ -46,7 +46,7 @@ You can now use development tools and install applications from third-party sour
 
 To enable proper communication between your computer and the Oculus Quest, you need to install ADB drivers. ADB (Android Debug Bridge) is a developer tool that allows your PC to recognize the headset, transfer files, and issue commands. Without these drivers, your computer may not detect the Quest correctly, which will prevent sideloading and other advanced operations
 
-## Drivers
+
 
 Meta-specific installer: Meta also provides its own Oculus ADB Driver Package for Windows
 Installing this ensures compatibility with Quest Devices.
