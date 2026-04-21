@@ -8,11 +8,11 @@ Here are the steps to turn on developer mode and debugging on Quest 3:
 2. Click Create Organization and fill in the required information.
 
 
-3. Complete the account verification process, which may involve two-factor authentication or providing payment information (no charges will be made).
+3.Complete the account verification process, which may involve two-factor authentication or providing payment information (no charges will be made).
  
 ## Enable Developer Mode
  
-1. Download and install the Meta Horizon app on your smartphone.
+1. Download and install the Meta Horizon app on your smartphone.
 
 
 2. Open the app and ensure your Quest 3 is connected and paired.
