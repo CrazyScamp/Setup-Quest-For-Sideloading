@@ -53,6 +53,8 @@ Installing this ensures compatibility with Quest Devices.
 
 Download ADB Driver Package
 
+https://developers.meta.com/horizon/downloads/package/oculus-adb-drivers/
+
 
  
 
