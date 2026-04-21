@@ -57,11 +57,11 @@ https://developers.meta.com/horizon/downloads/package/oculus-adb-drivers/
 
 
  
-
-
 Mac and Linux users: ADB is included with the Android Platform Tools.
 
 Download SDK Platform Tools Page
+
+https://developer.android.com/tools/releases/platform-tools
 
 
  
