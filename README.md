@@ -1,4 +1,4 @@
-Here are the steps to turn on developer mode and USB debugging on Quest 3:
+Here are the steps to turn on Developer Mode, USB Debugging and Installing USB Drivers on Quest 3.
  
 ## Create a Developer Account
  
