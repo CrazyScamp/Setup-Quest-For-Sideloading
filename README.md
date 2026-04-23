@@ -51,8 +51,8 @@ To enable proper communication between your computer and the Oculus Quest, you n
 Meta-specific installer: Meta also provides its own Oculus ADB Driver Package for Windows
 Installing this ensures compatibility with Quest Devices.
 
+---
 Download ADB Driver Package
-
 ---
 
 https://developers.meta.com/horizon/downloads/package/oculus-adb-drivers/
@@ -61,8 +61,8 @@ https://developers.meta.com/horizon/downloads/package/oculus-adb-drivers/
 
 Mac and Linux users: ADB is included with the Android Platform Tools.
 
+---
 Download SDK Platform Tools Page
-
 ---
 
 https://developer.android.com/tools/releases/platform-tools
